@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Pranjal 👋
 
-<!--
-**ps6053026-netizen/ps6053026-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student at VIT Bhopal
 
-Here are some ideas to get you started:
+I'm currently building my foundations in **C++, Data Structures & Algorithms, and Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+* C++
+* Data Structures & Algorithms
+* HTML & CSS
+* JavaScript
+* Git & GitHub
+
+### 🎯 Future Focus
+
+* Python
+* Machine Learning
+* AI/ML
+* Backend Development
+
+### 🛠️ Projects
+
+* **Student Grade Management System** — Python CLI application for managing student records and calculating grades.
+* **Caloric Surplus Tracker** — Python CLI application for tracking calories and protein intake.
+
+### 🏆 Experience
+
+* Participated in a hackathon and contributed to backend development of a **Grievance Redressal & Maintenance Tracker**.
+
+### 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/pranjal-shrivastava-a173a5388/
+
+---
+
+*Currently learning, building, and improving one project at a time.*
